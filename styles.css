@@ -3,7 +3,22 @@
   margin: auto;
   text-align: center;
 }
-
+.btn{
+  height: 100px;
+  width: 150px;
+  margin-top: 1rem;
+  background-color: #4ECCA3;
+  color: #232931;
+  font-family: 'Lobster';
+  letter-spacing: 0.5rem;
+  font-size: large;
+  border-radius: 0.75rem;
+}
+.btn:hover{
+  background-color: #232931;
+  color: #4ECCA3;
+  cursor: pointer;
+}
 .dice {
   text-align: center;
   display: inline-block;
